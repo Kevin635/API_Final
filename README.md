@@ -84,7 +84,7 @@ This project is licensed under the MIT License.
 If you have any questions or concerns about the Fitness-Tracking API, please contact us at support@fitnesstracker.com.
 
 
-Here are some screeenshots on how the post requests should look like:
+## Here are some screeenshots on how the post requests should look like:
 
 <img src="POST.png" alt="Alt text" title="Optional title">
 
