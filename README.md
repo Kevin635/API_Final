@@ -60,6 +60,8 @@ If you would like to contribute to the Fitness-Tracking API, please follow these
 - Write clear commit messages.
 - Submit a pull request with a detailed description of your changes.
 
+
+
 ## License
 This project is licensed under the MIT License.
 
