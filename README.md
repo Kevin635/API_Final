@@ -29,25 +29,27 @@ Update-Database
 ## Usage
 To use the Fitness-Tracking API, you can interact with the following endpoints:
 
-GET /users - retrieves all users from the database
-POST /users - creates a new user in the database
-GET /users/{id} - retrieves a user by their ID
-PUT /users/{id} - updates a user by their ID
-DELETE /users/{id} - deletes a user by their ID
-GET /workouts - retrieves all workouts from the database
-POST /workouts - creates a new workout in the database
-GET /workouts/{id} - retrieves a workout by its ID
-PUT /workouts/{id} - updates a workout by its ID
-DELETE /workouts/{id} - deletes a workout by its ID
+- GET /users - retrieves all users from the database
+- POST /users - creates a new user in the database
+- GET /users/{id} - retrieves a user by their ID
+- PUT /users/{id} - updates a user by their ID
+- DELETE /users/{id} - deletes a user by their ID
+- GET /workouts - retrieves all workouts from the database
+- POST /workouts - creates a new workout in the database
+- GET /workouts/{id} - retrieves a workout by its ID
+- PUT /workouts/{id} - updates a workout by its ID
+- DELETE /workouts/{id} - deletes a workout by its ID
 Here is an example of how to create a new user using the Fitness-Tracking API:
 
 Send a POST request to http://localhost:7230/user with the following JSON body:
+```rust
 {
     "username": "johndoe",
     "email": "johndoe@example.com",
     "password": "password",
     "age": 30
 }
+```
 The API will create a new user in the database and return a response with the user's ID.
 
 ## Contributing
