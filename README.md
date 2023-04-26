@@ -56,10 +56,11 @@ The API will create a new user in the database and return a response with the us
 ## Contributing
 If you would like to contribute to the Fitness-Tracking API, please follow these guidelines:
 
-Fork the repository and make your changes on a feature branch.
-Write clear commit messages.
-Submit a pull request with a detailed description of your changes.
-License
+- Fork the repository and make your changes on a feature branch.
+- Write clear commit messages.
+- Submit a pull request with a detailed description of your changes.
+-
+## License
 This project is licensed under the MIT License.
 
 ## Contact
