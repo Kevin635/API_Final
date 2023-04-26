@@ -86,5 +86,12 @@ If you have any questions or concerns about the Fitness-Tracking API, please con
 
 ## Here are some screeenshots on how the post requests should look like:
 
+
+<img src="GET_for_user.png" alt="Alt text" title="Optional title">
+
+<img src="GET_for_userID.png" alt="Alt text" title="Optional title">
+
 <img src="POST.png" alt="Alt text" title="Optional title">
+
+<img src="DELETE.png" alt="Alt text" title="Optional title">
 
