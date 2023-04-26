@@ -65,7 +65,13 @@ git checkout -b new-feature
 ```rust
 git commit -m "your commit message"
 ```
+4. Push to your branch
+```rust
+git push origin new-feature
+```
+5. Create a pull request
 
+Please make sure that your code follows the existing style and that it is thoroughly tested before submitting a pull request.
 
 
 ## License
