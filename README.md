@@ -26,35 +26,6 @@ To install the Fitness-Tracking API, follow these steps:
 ```rust
 Update-Database
 
-
-
-
-
-
-
-
-
-#Project Title: Fitness-Tracking API
-Description
-The Fitness-Tracking API is an Application Programming Interface designed to help users streamline the process of logging their workouts and monitoring their progress over time. This API allows users to integrate data from multiple sources, such as fitness trackers, smartwatches, or manually inputted data, into a singular platform. With this API, users can visualize their progress, set achievable goals, and obtain valuable insights into their workouts.
-
-Prerequisites
-Before using the Fitness-Tracking API, make sure you have the following:
-
-A basic understanding of C# programming language
-A MySQL database management system
-A REST client like Postman to test API endpoints
-Installation
-To install the Fitness-Tracking API, follow these steps:
-
-Clone the repository to your local machine.
-Open the project in Visual Studio.
-Build the project to restore the NuGet packages.
-In Visual Studio's Package Manager Console, run the following command:
-mathematica
-Copy code
-Update-Database
-Start the project to test the API endpoints.
 Usage
 To use the Fitness-Tracking API, you can interact with the following endpoints:
 
@@ -71,7 +42,7 @@ DELETE /workouts/{id} - deletes a workout by its ID
 Here is an example of how to create a new user using the Fitness-Tracking API:
 
 Send a POST request to http://localhost:5000/users with the following JSON body:
-perl
+json
 Copy code
 {
     "username": "johndoe",
@@ -91,3 +62,4 @@ This project is licensed under the MIT License.
 
 Contact
 If you have any questions or concerns about the Fitness-Tracking API, please contact us at support@fitnesstracker.com.
+
