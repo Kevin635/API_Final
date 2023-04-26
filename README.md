@@ -41,7 +41,7 @@ PUT /workouts/{id} - updates a workout by its ID
 DELETE /workouts/{id} - deletes a workout by its ID
 Here is an example of how to create a new user using the Fitness-Tracking API:
 
-Send a POST request to http://localhost:5000/users with the following JSON body:
+Send a POST request to http://localhost:7230/user with the following JSON body:
 {
     "username": "johndoe",
     "email": "johndoe@example.com",
