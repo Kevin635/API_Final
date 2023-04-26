@@ -1,4 +1,4 @@
-// <h1 align="center">Fitness-Tracking API</h1>
+ <h1 align="center">Fitness-Tracking API</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Rust-orange.svg">
@@ -42,8 +42,6 @@ DELETE /workouts/{id} - deletes a workout by its ID
 Here is an example of how to create a new user using the Fitness-Tracking API:
 
 Send a POST request to http://localhost:5000/users with the following JSON body:
-json
-Copy code
 {
     "username": "johndoe",
     "email": "johndoe@example.com",
