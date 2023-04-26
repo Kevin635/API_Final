@@ -24,9 +24,9 @@ To install the Fitness-Tracking API, follow these steps:
 3. Build the project to restore the NuGet packages.
 4. In Visual Studio's Package Manager Console, run the following command:
 ```rust
-Update-Database```
-
-Usage
+Update-Database
+```
+##Usage
 To use the Fitness-Tracking API, you can interact with the following endpoints:
 
 GET /users - retrieves all users from the database
@@ -49,7 +49,8 @@ Send a POST request to http://localhost:5000/users with the following JSON body:
     "age": 30
 }
 The API will create a new user in the database and return a response with the user's ID.
-Contributing
+
+##Contributing
 If you would like to contribute to the Fitness-Tracking API, please follow these guidelines:
 
 Fork the repository and make your changes on a feature branch.
@@ -58,6 +59,6 @@ Submit a pull request with a detailed description of your changes.
 License
 This project is licensed under the MIT License.
 
-Contact
+##Contact
 If you have any questions or concerns about the Fitness-Tracking API, please contact us at support@fitnesstracker.com.
 
