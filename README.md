@@ -56,9 +56,15 @@ The API will create a new user in the database and return a response with the us
 ## Contributing
 If you would like to contribute to the Fitness-Tracking API, please follow these guidelines:
 
-- Fork the repository and make your changes on a feature branch.
-- Write clear commit messages.
-- Submit a pull request with a detailed description of your changes.
+1. Fork the repository and make your changes on a feature branch.
+2. Create a new branch for your feature or bug fix
+```rust
+git checkout -b new-feature
+```
+3. Submit a pull request with a detailed description of your changes.
+```rust
+git commit -m "your commit message"
+```
 
 
 
