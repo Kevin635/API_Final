@@ -84,5 +84,5 @@ This project is licensed under the MIT License.
 If you have any questions or concerns about the Fitness-Tracking API, please contact us at support@fitnesstracker.com.
 
 
-<img src="POST.jpg" alt="Alt text" title="Optional title">
+<img src="POST.png" alt="Alt text" title="Optional title">
 
