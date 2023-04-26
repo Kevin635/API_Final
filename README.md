@@ -1,3 +1,36 @@
+// <h1 align="center">Fitness-Tracking API</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Rust-orange.svg">
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+</p>
+
+## Description
+
+The Fitness-Tracking API is an Application Programming Interface designed to help users streamline the process of logging their workouts and monitoring their progress over time. This API allows users to integrate data from multiple sources, such as fitness trackers, smartwatches, or manually inputted data, into a singular platform. With this API, users can visualize their progress, set achievable goals, and obtain valuable insights into their workouts.
+
+## Prerequisites
+
+Before using the Fitness-Tracking API, make sure you have the following:
+- A basic understanding of Rust programming language
+- A MySQL database management system
+- A REST client like Postman to test API endpoints
+
+## Installation
+
+To install the Fitness-Tracking API, follow these steps:
+1. Clone the repository to your local machine.
+2. Open the project in Visual Studio.
+3. Build the project to restore the NuGet packages.
+4. In Visual Studio's Package Manager Console, run the following command:
+```rust
+Update-Database
+
+
+
+
+
+
 
 
 
