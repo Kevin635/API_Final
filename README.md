@@ -57,22 +57,25 @@ The API will create a new user in the database and return a response with the us
 If you would like to contribute to the Fitness-Tracking API, please follow these guidelines:
 
 1. Fork the repository and make your changes on a feature branch.
+
 2. Create a new branch for your feature or bug fix
 ```rust
 git checkout -b new-feature
 ```
+
 3. Submit a pull request with a detailed description of your changes.
 ```rust
 git commit -m "your commit message"
 ```
+
 4. Push to your branch
 ```rust
 git push origin new-feature
 ```
+
 5. Create a pull request
 
 Please make sure that your code follows the existing style and that it is thoroughly tested before submitting a pull request.
-
 
 ## License
 This project is licensed under the MIT License.
