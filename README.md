@@ -22,10 +22,9 @@ To install the Fitness-Tracking API, follow these steps:
 1. Clone the repository to your local machine.
 2. Open the project in Visual Studio.
 3. Build the project to restore the NuGet packages.
-4. In Visual Studio's Package Manager Console, run the following command:
-```rust
-Update-Database
-```
+4. In Visual Studio's Package Manager Console, deploy it
+
+
 ## Usage
 To use the Fitness-Tracking API, you can interact with the following endpoints:
 
